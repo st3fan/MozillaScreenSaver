@@ -3,16 +3,12 @@
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 #import <SpriteKit/SpriteKit.h>
-#import <ScreenSaver/ScreenSaver.h>
+#import <Cocoa/Cocoa.h>
 
-@class MozillaScene;
-
-@interface MozillaView : ScreenSaverView {
-    SKView *_sceneView;
-    MozillaScene *_scene;
+@interface MozillaScene : SKScene {
+    BOOL _isPreview;
 }
-
-@property SKView *sceneView;
-@property MozillaScene *scene;
-
+@property NSInteger logoIndex;
+@property SKSpriteNode *logo;
+- (instancetype) initWithSize:(CGSize)size isPreview: (BOOL) isPreview;
 @end
