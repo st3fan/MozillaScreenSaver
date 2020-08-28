@@ -12,12 +12,12 @@
 		F84D98F51F9D2052006F8331 /* MozillaScene.h in Headers */ = {isa = PBXBuildFile; fileRef = F84D98F31F9D2052006F8331 /* MozillaScene.h */; };
 		F84D98F61F9D2052006F8331 /* MozillaScene.m in Sources */ = {isa = PBXBuildFile; fileRef = F84D98F41F9D2052006F8331 /* MozillaScene.m */; };
 		F84D98FF1F9D2350006F8331 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F84D98FE1F9D2350006F8331 /* SpriteKit.framework */; };
-		F84D99001F9D2457006F8331 /* firefox-logo-developer-edition.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98F71F9D22C5006F8331 /* firefox-logo-developer-edition.png */; };
-		F84D99011F9D2457006F8331 /* firefox-logo-focus.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98FA1F9D22C5006F8331 /* firefox-logo-focus.png */; };
-		F84D99021F9D2457006F8331 /* firefox-logo-nightly.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98F91F9D22C5006F8331 /* firefox-logo-nightly.png */; };
-		F84D99031F9D2457006F8331 /* firefox-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98F81F9D22C5006F8331 /* firefox-logo.png */; };
-		F84D99041F9D2457006F8331 /* mozilla-mask.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98FB1F9D22C5006F8331 /* mozilla-mask.png */; };
-		F84D99051F9D2457006F8331 /* mozilla.png in Resources */ = {isa = PBXBuildFile; fileRef = F84D98FC1F9D22C6006F8331 /* mozilla.png */; };
+		F88636A224F88AC30069F4C8 /* firefox-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F886369C24F88AC30069F4C8 /* firefox-logo.png */; };
+		F88636A324F88AC30069F4C8 /* mozilla.png in Resources */ = {isa = PBXBuildFile; fileRef = F886369D24F88AC30069F4C8 /* mozilla.png */; };
+		F88636A424F88AC30069F4C8 /* mozilla-mask.png in Resources */ = {isa = PBXBuildFile; fileRef = F886369E24F88AC30069F4C8 /* mozilla-mask.png */; };
+		F88636A524F88AC30069F4C8 /* firefox-logo-focus.png in Resources */ = {isa = PBXBuildFile; fileRef = F886369F24F88AC30069F4C8 /* firefox-logo-focus.png */; };
+		F88636A624F88AC30069F4C8 /* firefox-logo-nightly.png in Resources */ = {isa = PBXBuildFile; fileRef = F88636A024F88AC30069F4C8 /* firefox-logo-nightly.png */; };
+		F88636A724F88AC30069F4C8 /* firefox-logo-developer-edition.png in Resources */ = {isa = PBXBuildFile; fileRef = F88636A124F88AC30069F4C8 /* firefox-logo-developer-edition.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,13 +27,13 @@
 		F84D98ED1F9D1FD1006F8331 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F84D98F31F9D2052006F8331 /* MozillaScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MozillaScene.h; sourceTree = "<group>"; };
 		F84D98F41F9D2052006F8331 /* MozillaScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MozillaScene.m; sourceTree = "<group>"; };
-		F84D98F71F9D22C5006F8331 /* firefox-logo-developer-edition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "firefox-logo-developer-edition.png"; path = "../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/firefox-logo-developer-edition.imageset/firefox-logo-developer-edition.png"; sourceTree = "<group>"; };
-		F84D98F81F9D22C5006F8331 /* firefox-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "firefox-logo.png"; path = "../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/firefox-logo.imageset/firefox-logo.png"; sourceTree = "<group>"; };
-		F84D98F91F9D22C5006F8331 /* firefox-logo-nightly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "firefox-logo-nightly.png"; path = "../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/firefox-logo-nightly.imageset/firefox-logo-nightly.png"; sourceTree = "<group>"; };
-		F84D98FA1F9D22C5006F8331 /* firefox-logo-focus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "firefox-logo-focus.png"; path = "../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/firefox-logo-focus.imageset/firefox-logo-focus.png"; sourceTree = "<group>"; };
-		F84D98FB1F9D22C5006F8331 /* mozilla-mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "mozilla-mask.png"; path = "../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/mozilla-mask.imageset/mozilla-mask.png"; sourceTree = "<group>"; };
-		F84D98FC1F9D22C6006F8331 /* mozilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mozilla.png; path = ../../ScreenSaverExperiments/MozillaSaver2/SaverPlayground/Assets.xcassets/mozilla.imageset/mozilla.png; sourceTree = "<group>"; };
 		F84D98FE1F9D2350006F8331 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		F886369C24F88AC30069F4C8 /* firefox-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firefox-logo.png"; sourceTree = "<group>"; };
+		F886369D24F88AC30069F4C8 /* mozilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mozilla.png; sourceTree = "<group>"; };
+		F886369E24F88AC30069F4C8 /* mozilla-mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mozilla-mask.png"; sourceTree = "<group>"; };
+		F886369F24F88AC30069F4C8 /* firefox-logo-focus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firefox-logo-focus.png"; sourceTree = "<group>"; };
+		F88636A024F88AC30069F4C8 /* firefox-logo-nightly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firefox-logo-nightly.png"; sourceTree = "<group>"; };
+		F88636A124F88AC30069F4C8 /* firefox-logo-developer-edition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "firefox-logo-developer-edition.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,12 +73,12 @@
 				F84D98EB1F9D1FD1006F8331 /* MozillaView.m */,
 				F84D98F31F9D2052006F8331 /* MozillaScene.h */,
 				F84D98F41F9D2052006F8331 /* MozillaScene.m */,
-				F84D98F71F9D22C5006F8331 /* firefox-logo-developer-edition.png */,
-				F84D98FA1F9D22C5006F8331 /* firefox-logo-focus.png */,
-				F84D98F91F9D22C5006F8331 /* firefox-logo-nightly.png */,
-				F84D98F81F9D22C5006F8331 /* firefox-logo.png */,
-				F84D98FB1F9D22C5006F8331 /* mozilla-mask.png */,
-				F84D98FC1F9D22C6006F8331 /* mozilla.png */,
+				F88636A124F88AC30069F4C8 /* firefox-logo-developer-edition.png */,
+				F886369F24F88AC30069F4C8 /* firefox-logo-focus.png */,
+				F88636A024F88AC30069F4C8 /* firefox-logo-nightly.png */,
+				F886369C24F88AC30069F4C8 /* firefox-logo.png */,
+				F886369E24F88AC30069F4C8 /* mozilla-mask.png */,
+				F886369D24F88AC30069F4C8 /* mozilla.png */,
 			);
 			path = Mozilla;
 			sourceTree = "<group>";
@@ -135,7 +135,7 @@
 				TargetAttributes = {
 					F84D98E51F9D1FD1006F8331 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -161,12 +161,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F84D99031F9D2457006F8331 /* firefox-logo.png in Resources */,
-				F84D99001F9D2457006F8331 /* firefox-logo-developer-edition.png in Resources */,
-				F84D99021F9D2457006F8331 /* firefox-logo-nightly.png in Resources */,
-				F84D99041F9D2457006F8331 /* mozilla-mask.png in Resources */,
-				F84D99051F9D2457006F8331 /* mozilla.png in Resources */,
-				F84D99011F9D2457006F8331 /* firefox-logo-focus.png in Resources */,
+				F88636A624F88AC30069F4C8 /* firefox-logo-nightly.png in Resources */,
+				F88636A324F88AC30069F4C8 /* mozilla.png in Resources */,
+				F88636A224F88AC30069F4C8 /* firefox-logo.png in Resources */,
+				F88636A424F88AC30069F4C8 /* mozilla-mask.png in Resources */,
+				F88636A724F88AC30069F4C8 /* firefox-logo-developer-edition.png in Resources */,
+				F88636A524F88AC30069F4C8 /* firefox-logo-focus.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -233,7 +233,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -282,7 +282,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 			};
@@ -291,13 +291,16 @@
 		F84D98F11F9D1FD1006F8331 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = NTLVDQ6CE4;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Mozilla/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = ca.arentz.Mozilla;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.hogtownsoftware.MozillaScreenSaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = saver;
 			};
 			name = Debug;
@@ -305,13 +308,16 @@
 		F84D98F21F9D1FD1006F8331 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = NTLVDQ6CE4;
+				DEVELOPMENT_TEAM = 553QKZD2RX;
 				INFOPLIST_FILE = Mozilla/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = ca.arentz.Mozilla;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.hogtownsoftware.MozillaScreenSaver;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				WRAPPER_EXTENSION = saver;
 			};
 			name = Release;

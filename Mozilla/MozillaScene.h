@@ -5,7 +5,7 @@
 #import <SpriteKit/SpriteKit.h>
 #import <Cocoa/Cocoa.h>
 
-@interface MozillaScene : SKScene {
+@interface MozillaScene : SKScene <SKPhysicsContactDelegate> {
     BOOL _isPreview;
 }
 @property NSInteger logoIndex;
